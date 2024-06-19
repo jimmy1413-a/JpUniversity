@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ayuda
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ayuda\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Ayuda()
+comment2.params=tipo\ estado\ fechaAsignacion\ fechaEntrega
+comment2.target=Ayuda(TipoAyuda,\ Estado,\ Fecha,\ Fecha)
+comment3.params=tipo\ estado
+comment3.target=Ayuda(TipoAyuda,\ Estado)
+comment4.params=
+comment4.target=java.lang.String\ imprimirInfoAyudas()
+comment5.params=
+comment5.target=java.lang.String\ imprimirInfoNoAyudas()
+comment6.params=
+comment6.target=java.lang.String\ imprimirAyudas()
+numComments=7
